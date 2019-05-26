@@ -3,9 +3,9 @@
 Starting with BetterTouchTool 2.430 it supports three methods of basic scripting:
 
 
-* [Via Apple Script](apple_script.md)
-* [Via the custom btt:// URL Scheme](custom_url_scheme.md)
-* [Via an integrated webserver](webserver.md)
+* [Via Apple Script](1102_apple_script.md)
+* [Via the custom btt:// URL Scheme](1103_custom_url_scheme.md)
+* [Via an integrated webserver](1104_webserver.md)
 
 Additionally if you use BetterTouchTool's Floating Web View, you can also trigger all of the methods using Java Script: [Trigger from Floating Web View](floating_menu_javascript.md)
 
